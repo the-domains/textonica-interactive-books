@@ -1,0 +1,28 @@
+name: 'textonica interactive books '
+favicon: null
+layout_spectrum: 0.7153188434895128
+typography_spectrum: 0.24165534763596952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.932802194962278
+  lightness: 0.1271243451628834
+  saturation: 0.14160685264505446
+  rhythmicContrast: 0.5207991055212915
+purpose: []
